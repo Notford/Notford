@@ -1,9 +1,13 @@
+![DevNOt](https://user-images.githubusercontent.com/53006516/219947975-892e35fb-d5cc-4330-b6c9-53a4c443bcc0.png)
+
+
 ### Hi there 👋
 
 <!--
 **Notford/Notford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

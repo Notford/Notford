@@ -1,17 +1,20 @@
 ![DevNOt](https://user-images.githubusercontent.com/53006516/219947975-892e35fb-d5cc-4330-b6c9-53a4c443bcc0.png)
 
 ### Hi there 👋 
-Welcome to my page!
-I'm Kwame, Full Stack Developer. Passionate about technology. I studied foundations in Software Engineering at Career Blueprint, Ghana,
-and Full Stack Software Development at ALX School Cohort 12.
+Welcome to my page! <br>
+I am Kwame.
+=============================================================================================================================
+Full Stack Developer. Passionate about technology.<br>Studied foundations in Software Engineering at Career Blueprint, Ghana.
+<br> Studying Full Stack Software Development at ALX School Cohort 12.
+-----------------------------------------------------------------------------------------------------------------------------
 
 - 👨🏻‍🚀 I Keep learning virtually every day. Never stop
 - 🧠 I’m currently studying Data Analyst at ALX School.
 - 💼 I’m looking for a job as a Jr Full Stack in a startup or tech industry
+- 🤝 I'm open to collaborating on Software Development
 - 🥅 2023 Goals: Get an immersive development experience
 - 📫 How to reach me: kwame.notford@gmail.com
-- ⚡ Fun fact: Play Basketball 🏀 and love swimming | Travel✈️ | Play Chess
-
+- ⚡ Fun fact: Play Basketball 🏀 and love swimming | Travel✈️ | Playing Chess♟
 ### Connect with me:
 
 [<img align="left" alt="KwameNotford | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,13 +23,23 @@ and Full Stack Software Development at ALX School Cohort 12.
 
 <br>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Notford&label=Profile%20views&color=0e75b6&style=flat" alt="David"/>
+<br>
+<br>
 
-| <a href="https://github.com/Notford/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Notford&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Notford's github stats" /></a> | <a href="https://github.com/Notford/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notford&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Notford/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Notford&langs_count=10&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Notford's github stats" /></a> | <a href="https://github.com/Notford/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notford&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 ### My Languages... 📊
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Notford)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notford&langs_count=10)
+
+### Git Stats
+<a href="http://www.github.com/Notford"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Notford&stroke=10b981&background=#FFFFFF&ring=a855f7&fire=a855f7&currStreakNum=10b981&currStreakLabel=a855f7&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+<a href="http://www.github.com/Notford"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Notford&bg_color=000000&color=10b981&line=3382ed&point=10b981&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]

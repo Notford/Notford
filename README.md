@@ -60,7 +60,7 @@ Full Stack Developer. Passionate about technology.<br>Studied foundations in Sof
 <div id="badges">
 <p><a href="https://github.com/Notford" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/kwame-osei-tutu-fordjour-927877116" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://youtube.com/kwameoseitutufordjour69"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a> <a href="https://twitter.com/KwameNotford" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</a><a href="https://youtube.com/@kwameoseitutufordjour69"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a> <a href="https://twitter.com/KwameNotford" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
  </a>
 </div>
 

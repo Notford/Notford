@@ -9,7 +9,7 @@ Full Stack Developer. Passionate about technology.<br>Studied foundations in Sof
 -----------------------------------------------------------------------------------------------------------------------------
 
 - 👨🏻‍🚀 I Keep learning virtually every day. Never stop
-- 🧠 I’m currently studying Data Analyst at ALX School.
+- 🧠 I’m currently studying Data Analytics at ALX School.
 - 💼 I’m looking for a job as a Jr Full Stack in a startup or tech industry
 - 🤝 I'm open to collaborating on Software Development
 - 🥅 2023 Goals: Get an immersive development experience

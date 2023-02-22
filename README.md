@@ -4,7 +4,7 @@
 Welcome to my page! <br>
 I am Kwame.
 =============================================================================================================================
-Full Stack Developer. Passionate about technology.<br>Studied foundations in Software Engineering at Career Blueprint, Ghana.
+Full Stack Developer. Ethical Hacker. Passionate about technology.<br>Studied foundations in Software Engineering at Career Blueprint, Ghana.
 <br> Studying Full Stack Software Development at ALX School Cohort 12.
 -----------------------------------------------------------------------------------------------------------------------------
 

@@ -1,4 +1,4 @@
-![DevNOt](https://user-images.githubusercontent.com/53006516/219947975-892e35fb-d5cc-4330-b6c9-53a4c443bcc0.png)
+![DNT](https://user-images.githubusercontent.com/53006516/222424251-d1905099-2969-4ef9-acad-6e7d19a7cce4.jpeg)
 
 ### Hi there 👋 
 Welcome to my page! <br>
